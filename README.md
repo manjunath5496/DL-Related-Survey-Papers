@@ -45,7 +45,7 @@ Object Detection</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/DL-Related-Survey-Papers/blob/master/d(23).pdf" style="text-decoration:none;">Biometrics Recognition Using Deep Learning: A Survey</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/DL-Related-Survey-Papers/blob/master/d(24).pdf" style="text-decoration:none;">Biometric Recognition Using Deep Learning: A Survey</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/DL-Related-Survey-Papers/blob/master/d(24).pdf" style="text-decoration:none;">A Survey of Deep Learning for Scientific Discovery</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/DL-Related-Survey-Papers/blob/master/d(25).pdf" style="text-decoration:none;">Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/DL-Related-Survey-Papers/blob/master/d(26).pdf" style="text-decoration:none;">Neural Approaches to
